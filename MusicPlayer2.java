@@ -7,7 +7,7 @@ import java.net.URL;
 
 
 
-public class MusicPlayer{
+public class MusicPlayer2{
 
 String ArtistName;
 String AlbumName;
